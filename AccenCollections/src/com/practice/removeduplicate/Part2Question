@@ -1,0 +1,12 @@
+Now Zara comes up with another new requirement as she is very happy about the applications that was created previously by you. Zara would like to get the information of the Students school wise. The school name along with the list of student names who belong to that school should be returned.
+
+You are provided with the Student class that has the below attributes:
+
+            int studId
+
+            String studName
+
+            String schoolName
+
+Your are provided with getters and setters. You are also provided with a method called retrieveStudentInfo(ArrayList<Student>) inside TestMain class. This method should return the HashMap that holds the school name and the list of student names belonging to that school.Use the given main method to test the code
+

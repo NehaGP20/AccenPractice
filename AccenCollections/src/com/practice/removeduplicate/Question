@@ -1,0 +1,38 @@
+Zara is a home maker. She wanted to do a part time job. She started a tuition center. Because of her excellence she started getting 
+many students for her tuition class. Zara finds it difficult to maintain their details manually. Help Zara in writing a java application 
+to manage the student details. The program should get the list of names as a String array. Since she has maintained the details manually 
+there are lots of duplication. Your application should remove the duplicates (case Sensitive) and  sort the names (if the names are given
+ in upper case and lower case then names starting with upper case letters takes precedence) and display the names.
+Hint: Use the appropriate Collection API
+
+Input1
+
+Enter the number of Students:
+5
+Sam
+John
+Ram
+John
+Alice
+
+Output 1:
+Alice
+John
+Ram
+Sam
+
+Sample Input 2:
+6
+GEORGE
+george
+GEORGE
+Ghish
+G
+h
+
+ Sample Output 2:
+G
+GEORGE
+Ghish
+george
+h

@@ -1,0 +1,191 @@
+OX-FO College of Engineering and Technology has planned to conduct a science exhibition to enhance the  technical knowledge of their 
+students. The exhibition is conducted for the students of ECE, EEE, CS and IT department. As part of this the college is in need of an 
+application to store , retrieve and manipulate the student details who are going to present their projects in the symposium.
+
+You are provided with the  Student  class that has the below attributes:
+
+            int studId
+
+            String studName
+
+            String deptName
+
+Needed getters and setters are written.
+
+Create a class Symposium with the following private attribute:
+
+       ArrayList<Student> studentList=new ArrayList<Student>();
+
+Include getters and setters
+
+Include the below methods:
+
+1.     void addStudent(Student aobj) - This method should register/add the newly registered Student  to the existing StudentList.
+
+2.     boolean isEmpty() -  This method should return true if the studentList is empty else return false.
+
+3.     ArrayList<Student> viewAllStudentDetails() - This method should return the all the Students who have been registered. If 
+there are no more students print “No Student Registered”.
+
+4.     ArrayList<Student> viewStudentInfoByDept(String deptName ) -  When the given department exists(all department names are case
+ insensitive),this method should return a list of Students for the given department. When no Students are available for the given 
+ department then print the message "No Students enrolled". Else print “This Department not eligible for Symposium”.
+
+5.     int totalStudents(String deptName) -  this method should return the count of Students belonging to the given department.
+
+Write a TestMain class to test the above functionalities.
+
+Sample Input and Output 1:
+
+1.Register Student
+
+2.Display all Student Details
+
+3.Display Student Details  based on Department Name
+
+4.Display total Count of Students – by Department Name
+
+5.Exit
+
+Enter your choice:
+
+1
+
+Enter the Student Id:
+
+123
+
+Enter the Student name:
+
+John
+
+Enter the department Name:
+
+ECE
+
+1.Register Student
+
+2.Display all Student Details
+
+3.Display Student Details  based on Department Name
+
+4.Display total Count of Students – by Department Name
+
+5.Exit
+
+Enter your choice:
+
+1
+
+Enter the Student Id:
+
+124
+
+Enter the Student name:
+
+Tom
+
+Enter the department Name:
+
+ECE
+
+Enter your choice:
+
+1
+
+Enter the Student Id:
+
+125
+
+Enter the Student name:
+
+Rose
+
+Enter the department Name:
+
+CSE
+
+1.Register Student
+
+2.Display all Student Details
+
+3.Display Student Details  based on Department Name
+
+4.Display total Count of Students – by Department Name
+
+5.Exit
+
+Enter your choice:
+
+3
+
+Enter the Department Name: Mech
+
+This Department not eligible for Symposium
+
+1.Register Student
+
+2.Display all Student Details
+
+3.Display Student Details  based on Department Name
+
+4.Display total Count of Students – by Department Name
+
+5.Exit
+
+Enter your choice:
+
+4
+
+Enter the Department Name: ECE
+
+Total No of Students:2
+
+1.Register Student
+
+2.Display all Student Details
+
+3.Display Student Details  based on Department Name
+
+4.Display total Count of Students – by Department Name
+
+5.Exit
+
+Enter your choice:
+
+2
+
+Student Id:123
+
+Student Name:John
+
+Department Name:ECE
+
+Student Id:124
+
+Student Name:Tom
+
+Department Name:ECE
+
+Student Id:125
+
+Student Name:Rose
+
+Department Name:CSE
+
+1.Register Student
+
+2.Display all Student Details
+
+3.Display Student Details  based on Department Name
+
+4.Display total Count of Students – by Department Name
+
+5.Exit
+
+Enter your choice:
+
+5
+
+Thank you for using the application
+
