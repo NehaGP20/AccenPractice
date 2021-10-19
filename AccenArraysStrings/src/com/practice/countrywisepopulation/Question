@@ -1,0 +1,65 @@
+Country Wise Population
+
+Display the population of each country from the least to the highest.
+
+[Input Format: First input refers to the no of countries, second one is an array to get the country names and the third one is 
+an array to get the population of each country (the population is given in crores)]
+
+[Assumption: no two countries will have same population]
+
+Sample Input1:
+
+5
+
+india
+
+china
+
+japan
+
+australia
+
+america
+
+135
+
+133
+
+12
+
+2
+
+32
+
+Sample Output1:
+
+australia
+
+japan
+
+america
+
+china
+
+india
+
+2
+
+12
+
+32
+
+133
+
+135
+
+Skip User Notes
+User Notes
+Add a note...
+               Press Enter to save
+Java
+Dashboard
+Help Desk
+FAQs
+Performance Dashboard
+View Notes

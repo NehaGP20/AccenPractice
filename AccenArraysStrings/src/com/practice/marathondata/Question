@@ -1,0 +1,80 @@
+David and his three friends namely Charles, Antony and Leo decided to go for week long marathon.
+
+Each day they recorded the distance covered by them individually in kilo meters. At the end of the week they have planned to meet
+ and share their data and discuss on it.
+
+Write a program to analyze the data recorded by them.
+
+The Program should store their names in a single dimensional array and the distance covered by each of them for each day should
+ be stored in a parallel 2 dimensional array of 4 rows and 7 columns.
+
+Create a the following functions
+
+A function that calculates the total distance covered by each runner.
+
+A function that calculates the average distance covered on each day.
+
+A function to display the output .
+
+Input:
+
+Enter the number of Kilometers covered by the runners for each day of the week  Use the data type as double.
+
+Note that the input consist of 28 values in double. Declare an array according to the problem statement and get the input
+
+Output:
+
+Average distance covered on each day. (Correct to 2 decimal places)
+
+Total Distance covered by each participant  (Correct to 2 decimal places)
+
+To print the output correct to 2 decimal places, use System.out.printf.
+
+Sample Input
+
+10 15 20 14 15 15 16
+
+12 23 12 10 9 8 10
+
+9 8 6 7 8 9 10
+
+15 12 13 11 10 12 13
+
+Sample Output
+
+Total Distance covered by each participant:
+
+David 105 kms 
+
+Charles 84 kms
+
+Antony 57 kms
+
+Leo 86 kms
+
+Average distance covered on each day:
+
+Day1:11.50 kms
+
+Day2:14.50 kms
+
+Day3:12.75 kms
+
+Day4:10.50 kms
+
+Day5:10.50 kms
+
+Day6:11.00 kms
+
+Day7:12.25 kms
+
+Skip User Notes
+User Notes
+Add a note...
+               Press Enter to save
+Java
+Dashboard
+Help Desk
+FAQs
+Performance Dashboard
+View Notes

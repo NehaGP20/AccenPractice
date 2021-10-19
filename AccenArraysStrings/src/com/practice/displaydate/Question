@@ -1,0 +1,38 @@
+Display Date
+
+Write a program to display the date as given below.
+
+1st January 2019
+
+The program should prompt the user to enter the date as three integer values for the day followed by the month and the year and 
+produces an output date as shown in the sample output.
+
+The program should print the correct superscripts “th”, “nd”, “st”, and “rd” to the day value. Assume you give valid date.
+
+[Note: 1st, 2nd, 3rd, 4th; and then 11th, 12th, 13th, 14th; and 21st, 22nd, 23rd, and 24th.]
+
+
+Sample input
+
+Enter 3 integers for the day of the month, month and year
+
+23
+
+4
+
+1989
+
+Sample output
+
+23rd April 1989
+
+Skip User Notes
+User Notes
+Add a note...
+               Press Enter to save
+Java
+Dashboard
+Help Desk
+FAQs
+Performance Dashboard
+View Notes

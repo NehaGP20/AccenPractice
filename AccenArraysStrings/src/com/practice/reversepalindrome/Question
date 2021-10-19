@@ -1,0 +1,37 @@
+Reverse & Palindrome
+
+In a given sentence, reverse each word and print the reversed words in the sentence. If there is a palindrome in the words, print
+ those words. If there is no palindrome print “No palindrome”.
+
+Sample Input1:
+
+mom cooks yummy dish
+
+Sample Output1:
+
+mom skooc ymmuy hsid
+
+mom
+
+Sample Input2:
+
+we seven eve madam
+
+Sample Output2:
+
+ew neves eve madam
+
+eve
+
+madam
+
+Sample Input3:
+
+java is a programming language
+
+Sample Output3:
+
+avaj si a gnimmargorp egaugnal
+
+No palindrome
+

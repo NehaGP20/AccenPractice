@@ -1,0 +1,64 @@
+Max Repeated Numbers
+
+In a given array find the maximum value which gets repeated for the maximum number of times. If two values get repeated for 
+maximum number of times, then print the largest one.
+
+[Input format: First input refers to the no of elements in the array and the next is the series of elements in the array]
+
+Sample Input1:
+
+5
+
+3
+
+2
+
+3
+
+2
+
+2
+
+Sample Output1:
+
+2
+
+
+Sample Input2:
+
+10
+
+3
+
+2
+
+3
+
+3
+
+2
+
+4
+
+5
+
+4
+
+6
+
+4
+
+Sample Output2:
+
+4
+
+Skip User Notes
+User Notes
+Add a note...
+               Press Enter to save
+Java
+Dashboard
+Help Desk
+FAQs
+Performance Dashboard
+View Notes

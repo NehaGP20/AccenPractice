@@ -1,0 +1,23 @@
+Least Repeating character
+
+Write a program to find the least repeating character in a given string.
+
+Sample Input1:
+
+abcdabcdabcdacd
+
+Sample Output1:
+
+b
+
+Sample Input1:
+
+abcdefghadbcabgb
+
+Sample Output1:
+
+e
+
+f
+
+h

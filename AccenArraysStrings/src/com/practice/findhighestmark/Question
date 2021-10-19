@@ -1,0 +1,35 @@
+Find the highest marks
+
+Raj is a professor who handles Mathematics ,he wants to conduct evaluation for the students.He wants to find the highest mark
+ among the students to give the proficiency .Write a Java program to help Raj. (Assume 6 set of marks provided always)
+
+
+Note: Mark should be greater than equal to zero.
+
+Sample Input 1 : 
+
+89
+
+90
+
+67
+
+78
+
+98
+
+76
+
+Sample Output 1 :
+
+Highest mark is 98
+
+Sample Input 2:
+
+96
+
+-89
+
+Sample Output 2 :
+
+Invalid Mark

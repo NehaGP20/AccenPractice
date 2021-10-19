@@ -1,0 +1,40 @@
+Late to bank
+
+In a bank all employees are supposed to check in by 9:30. The check in time will be noted in 24 hrs format. Help the manager of 
+the bank to find the number of employees who come in late . If one person is late display "1 employee is late" or if all the
+ employees are late, display"All employees are late".
+
+[The first input is the number of employees, the second series is the IN time of the employees]
+
+Sample Input1:
+
+5
+
+9:30 8:59 9:31 9:45 8:30
+
+Sample Output1:
+
+2 employees are late
+
+Sample Input1:
+
+6
+
+9:30 8:59 9:30 9:30 8:30 8:54
+
+Sample Output1:
+
+All employees are on time
+
+
+Skip User Notes
+User Notes
+Add a note...
+               Press Enter to save
+Java
+Dashboard
+Help Desk
+FAQs
+Performance Dashboard
+View Notes
+

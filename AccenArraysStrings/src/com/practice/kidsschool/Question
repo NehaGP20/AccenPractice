@@ -1,0 +1,46 @@
+Kids School
+
+In a school, the Kindergarten students are supposed to repeat a word till they memorize the word. For example if the word is
+ “dancing”, they will have to say dancingdancingdancing…
+
+Write a program to accept the string(word) as input from the user and also get the X and the Y position of the character as
+ input from the user. If the Xth and Yth position characters are same then print it as “Same” else “Not Same”.
+
+[Example: if the input is dancing, and if the x is 3 and y is 10 then the output will be “Same”. The students keep on repeating
+ the word[dancingdancing], the 3rd position character is “n” and 10th position character is also “n” so the output is same] 
+
+Sample Input 1:
+
+dancing
+
+3
+
+10
+
+Sample Output 1:
+
+Same
+
+Sample Input 2:
+
+love
+
+2
+
+12
+
+Sample Output 2:
+
+Not Same
+
+
+Skip User Notes
+User Notes
+Add a note...
+               Press Enter to save
+Java
+Dashboard
+Help Desk
+FAQs
+Performance Dashboard
+View Notes

@@ -1,0 +1,61 @@
+Two words of same letters
+
+Write a program to get two strings as input from the user. The program should check if both the strings contains the same letters.
+
+Note: Both the string values will be in lowercase.
+
+
+
+Sample Input 1:
+
+tea
+
+ate
+
+Sample Output 1:
+
+Same
+
+Explanation: Letter 't' is available in the word a't'e, Letter 'e' is present in the word at'e' and letter 'a' is available in
+ the word 'a'te.
+
+
+
+Sample Input 2:
+
+ear
+
+tear
+
+Sample Output 2:
+
+Different
+
+Explanation: 't' is not available in the word "ear"(first input)
+
+
+
+Sample Input 3:
+
+record
+
+order
+
+Sample Output 3:
+
+Different
+
+
+
+Sample Input 4:
+
+record
+
+coder
+
+Sample Output 4:
+
+Same
+
+Explanation: Though 'r' is repeated twice in the word 'record', it is available in the word 'coder' as per the problem 
+statement. Here, Letters are same. Hence, the output is "Same".

@@ -1,0 +1,46 @@
+Temperature Summary
+
+Every FortnightTimes of India News paper releases a summary of the weather report .
+
+It prints the date and the temperature on that date in three categories.
+
+If the temperature is below or equal to 20 Celsius it comes under cool category, if the temperature is between 20 and 30 it falls
+ under the warm and if the temperature is greater than 30 celsius then it comes under Dry
+
+Write a program to display the date and its corresponding temperature for each category .
+
+Create a two dimensional array to store the date and its temperature for each category.
+
+Prompt the user to enter the temperature sequentially for 15 days.
+
+Sample input
+
+38 40 41 40 37 38 36 35 30 28 27 25 20 18 16
+
+Sample output
+
+Dry Temperature
+
+1    2    3   4   5    6    7   8
+38 40 41 40 37 38 36 35
+
+Warm Temperature
+
+ 9  10 11 12
+30 28 27 25
+
+Cool Temperature
+
+13 14 15
+20 18 16
+
+Skip User Notes
+User Notes
+Add a note...
+               Press Enter to save
+Java
+Dashboard
+Help Desk
+FAQs
+Performance Dashboard
+View Notes

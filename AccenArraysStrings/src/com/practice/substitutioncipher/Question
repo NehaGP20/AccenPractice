@@ -1,0 +1,45 @@
+Substitution Cipher Technique
+
+Krena sitting in the first row wants to send a secret message to her friend Sudha who is sitting in the last row inside the 
+classroom. So she writes the secret message in a piece of paper and passes it through her classmates. Krena has used substitution
+ cipher technique where every letter is replaced with the one 7 letters down the alphabetic line. Since Sudha already knows the
+  technique she easily got the exact message.
+
+Write a program that accepts the secret message to decrypt and print the actual message to the screen.
+Input consists of the encrypted text.
+
+Note: The encrypted text (input) may have numbers or special characters along with letters. If so, ignore those and convert only
+ the letters. If space occurs between the words of input, it must occur in output also. If no letters, then there is “No hidden
+  message”.
+
+Sample Input 1
+
+Enter the encrypted text:
+
+Pukph
+
+Sample Output 1
+Decrypted text:
+India
+
+Sample Input 2
+Enter the encrypted text:
+
+Z23hcl @d$3#haly
+
+Sample Output 2
+Decrypted text:
+
+Save water
+
+
+Skip User Notes
+User Notes
+Add a note...
+               Press Enter to save
+Java
+Dashboard
+Help Desk
+FAQs
+Performance Dashboard
+View Notes
